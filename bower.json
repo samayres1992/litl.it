@@ -1,0 +1,26 @@
+{
+  "name": "litlit",
+  "description": "A link shortener and bookmark tool.",
+  "main": "bower.json",
+  "authors": [
+    "samayres1992 <samayres1992@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "link",
+    "shortener",
+    "bookmark"
+  ],
+  "homepage": "https://litl.it",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bulma": "^0.1.2"
+  }
+}
